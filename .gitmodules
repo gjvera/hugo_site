@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:gjvera/gjvera.github.io.git
+	branch = master
