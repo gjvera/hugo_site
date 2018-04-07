@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Basic stuff"
       image = "pic01.jpg"
-      url = "post/about_me"
+      url = "about_me"
 
     [[params.tiles.showcase]]
       title = "Education"
@@ -172,7 +172,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "hiring@gabrieljosephvera.com"
+    email = mailto:hiring@gabrieljosephvera.com
 
     [[params.contact.phone]]
     title = "Phone"
