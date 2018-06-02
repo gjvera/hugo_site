@@ -14,3 +14,5 @@ draft: false
 Meticulous Computer Software Engineer whose passions include developing software that improves current processes.
 Possesses practical knowledge in the design and implementation of software. Consistently meets deadlines and delivers
 high quality solutions. Enjoys learning and self guided research into programming related topics.
+
+Currently working at [Connexta](https://connexta.com) in Phoenix, AZ.

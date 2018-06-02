@@ -2,7 +2,7 @@
 title: "2 Santiago Canyon College"
 description: ""
 slug: "santiago"
-image: pic10.jpg
+image: scc.jpg
 keywords: ""
 categories: 
     - ""

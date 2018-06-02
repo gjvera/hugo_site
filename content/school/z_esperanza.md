@@ -2,7 +2,7 @@
 title: "3 Esperanza High School"
 description: ""
 slug: "esperanza"
-image: pic10.jpg
+image: ehs.jpg
 keywords: ""
 categories: 
     - ""
