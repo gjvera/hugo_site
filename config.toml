@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://gabrieljosephvera.com/"
+baseURL = "https://www.gabrieljosephvera.com/"
 languageCode = "en-us"
 title = "Gabriel Vera"
 theme = "forty"
@@ -49,7 +49,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Projects"
-      url = "projects"
+      url = "project"
 
     [[params.navigation.links]]
       name = "Resume"
@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Basic stuff"
       image = "pic01.jpg"
-      url = "about_me"
+      url = "post"
 
     [[params.tiles.showcase]]
       title = "Education"
@@ -113,7 +113,7 @@ disqusShortname = ""
       title = "Resume"
       subtitle = "PDF of current resume"
       image = "resume_pic.jpg"
-      url = "test_resume.pdf"
+      url = "resume.pdf"
 
     #[[params.tiles.showcase]]
      # title = "Consequat"
@@ -172,7 +172,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = mailto:hiring@gabrieljosephvera.com
+    email = "hiring@gabrieljosephvera.com"
 
     [[params.contact.phone]]
     title = "Phone"
