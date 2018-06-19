@@ -53,12 +53,15 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Resume"
-      url = "test_resume.pdf"
+      url = "resume.pdf"
 
     [[params.navigation.links]]
       name = "Education"
       url = "school"
-
+     
+    [[params.navigation.links]]
+      name = "Project Files"
+      url = "project/project_files"
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
     # code below if you need more links. Buttons work in the same way.
