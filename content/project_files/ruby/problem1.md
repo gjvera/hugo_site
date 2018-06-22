@@ -1,7 +1,7 @@
 ---
-title: "Problem 1 in Perl 6"
+title: "Problem 1 in Ruby"
 description: ""
-slug: "problem1p6"
+slug: "problem1rb"
 image: pic10.jpg
 keywords: ""
 categories: 
