@@ -2,7 +2,6 @@
 title: "Problem 1 in Ruby"
 description: ""
 slug: "problem1rb"
-image: pic10.jpg
 keywords: ""
 categories: 
     - ""

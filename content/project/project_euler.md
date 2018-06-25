@@ -2,7 +2,6 @@
 title: "Project Euler"
 description: ""
 slug: "project_euler"
-image: pic10.jpg
 keywords: ""
 categories: 
     - ""

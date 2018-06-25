@@ -2,7 +2,6 @@
 title: "About Me"
 description: ""
 slug: "about_me"
-image: pic10.jpg
 keywords: ""
 categories: 
     - ""

@@ -2,7 +2,6 @@
 title: "Website"
 description: ""
 slug: "website"
-image: pic10.jpg
 keywords: ""
 categories: 
     - ""

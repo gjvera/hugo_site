@@ -1,7 +1,7 @@
 ---
-title: "Problem 1 in Perl 6"
+title: "Problem 5"
 description: ""
-slug: "problem1p6"
+slug: "problem5"
 keywords: ""
 categories: 
     - ""
@@ -9,7 +9,13 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+Ruby
 {{< highlight go  "linenos=inline">}}
-#Find the sum of all the multiples of 3 or 5 below 1000
-say [+] ( 1 .. ^ 1000 ).grep({ !($_ % ( 3 & 5 ))});
+puts"#{(1..20).reduce(1, :lcm)}"
 {{< /highlight >}}
+
+Perl 6
+{{< highlight go  "linenos=inline">}}
+say [lcm] ( 1 .. 20 );
+{{< /highlight >}}
+
