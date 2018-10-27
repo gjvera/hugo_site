@@ -24,3 +24,10 @@ Ruby
  11 end
  12 puts"#{ans.tr'"',''}"
 {{< /highlight >}}
+
+Clojure
+{{<highlight go "linenos=inline">}}
+(defn -main
+  []
+  (println (subs (str (reduce + (map clojure.edn/read-string (clojure.string/split-lines (slurp *in*))))) 0 10)))
+  {{< /highlight >}}
